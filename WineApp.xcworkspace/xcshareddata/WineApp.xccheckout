@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6AA9A406-1FBC-4A27-AE86-F4781667F311</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WineApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5FD17009-6FD7-40F0-9064-A11319EACB20</key>
+		<string>http://github.com/lcqgrey/WineApp</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WineApp.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5FD17009-6FD7-40F0-9064-A11319EACB20</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://github.com/lcqgrey/WineApp</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5FD17009-6FD7-40F0-9064-A11319EACB20</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5FD17009-6FD7-40F0-9064-A11319EACB20</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WineApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
